@@ -5,7 +5,7 @@ of tracing methods in the [WIKI here](https://github.com/sunneach/erlang-tracing
 
 Erlang
 ===
-- [vet_trace module - high level wrapper](https://github.com/sunneach/erlang-tracing/blob/main/src/vet_trace.erl)
+- [`vet_trace` module - high level wrapper](https://github.com/sunneach/erlang-tracing/blob/main/src/vet_trace.erl)
 - [`erlang:trace`  function](https://github.com/sunneach/erlang-tracing/wiki/erlang-trace)
 - [`dbg` module](https://github.com/sunneach/erlang-tracing/wiki/dbg-module)
 - [`recon_trace` module](https://github.com/sunneach/erlang-tracing/wiki/recon_trace-module)
