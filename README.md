@@ -14,6 +14,7 @@ and also
 
 Elixir
 ===
+- [`vet_trace` module - Elixir usage](https://github.com/sunneach/erlang-tracing/wiki/vet_trace-Elixir)
 - [`:erlang.trace()` function  - Elixir](https://github.com/sunneach/erlang-tracing/wiki/erlang-trace-Elixir)
 - [`:dbg` module - Elixir](https://github.com/sunneach/erlang-tracing/wiki/dbg-module-Elixir)
 - [`:recon_trace` module - Elixir](https://github.com/sunneach/erlang-tracing/wiki/recon_trace-module-Elixir) - function calls only
